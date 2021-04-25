@@ -263,3 +263,16 @@ footer{
     background-color: #000000;
 
 }
+
+footer:after{
+    content: "";
+    background-color: #a0a0a0;
+    width: 75%;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: -1;
+
+}
