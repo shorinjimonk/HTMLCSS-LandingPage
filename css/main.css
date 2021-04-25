@@ -202,7 +202,7 @@ section{
     position: relative;
 }
 
-.full-banner::before
+.full-banner:before
 {
     content: "";
     position: absolute;
