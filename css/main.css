@@ -195,3 +195,10 @@ section{
     
 }
 
+.full-banner
+{
+    padding: 0 15px;
+    margin: 50px 0;
+    position: relative;
+}
+
