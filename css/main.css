@@ -182,15 +182,16 @@ section{
     text-align: center;
 }
 
-.category-text > div {
-    font-size: 16px;
-    font-weight: 200;
-    color: #faa541;
-}
 
 .category-text > h3 {
     font-size: 30px;
     font-weight: 700;
     line-height: 1;
     
+}
+
+.category-text > div {
+    font-size: 16px;
+    font-weight: 200;
+    color: #faa541;
 }
